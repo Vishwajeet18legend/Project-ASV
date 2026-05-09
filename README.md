@@ -1,8 +1,8 @@
-# Project-ASV
+# InterviewPrepAI
 
 ## AI-Powered Interview Preparation Platform
 
-Project-ASV is a MERN stack application designed to help users prepare for interviews using AI-generated interview questions and session management.
+InterviewPrepAI is a MERN stack application designed to help users prepare for interviews using AI-generated interview questions and session management.
 
 ---
 
