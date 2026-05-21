@@ -4,7 +4,7 @@
 
 InterviewPrepAI is a MERN stack application designed to help users prepare for interviews using AI-generated interview questions and session management.
 
----
+-------
 
 # Features
 
